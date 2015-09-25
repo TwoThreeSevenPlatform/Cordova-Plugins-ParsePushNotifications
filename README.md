@@ -1,4 +1,8 @@
-Phonegap-Plugins-ParsePushNotifications
+Parse Push Notifications for Cordova
 =======================================
-> receive push message from Parse.com in your phonegap app  
 
+This is a fork of https://github.com/asiFarran/Phonegap-Plugins-ParsePushNotifications
+
+Modified to do cold start better.
+Some bug fixes.
+Added onTrigger events to receive notifications in JS
